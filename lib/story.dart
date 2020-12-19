@@ -3,9 +3,9 @@ class Story {
   String choice1;
   String choice2;
 
-  Story(
+  Story({
     this.storyTitle,
     this.choice1,
     this.choice2,
-  );
+  });
 }
